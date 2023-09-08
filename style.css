@@ -12,10 +12,7 @@ html{
     font-family: 'Montserrat', sans-serif;
     color: navy;
     box-sizing: border-box;
-}
-
-body {
-    width: calc(100vw - (100vw - 100%));
+    overflow-x: hidden;
 }
 
 body, header {
@@ -151,3 +148,43 @@ h1{
 }
 
 }
+
+
+#under-construction{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    width: 100vw;
+    background-color: brown;
+    color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#under-construction-title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 80vw;
+}
+
+#under-construction h2{
+    padding-left: 10px;
+}
+
+#under-construction p {
+    max-width: 80vw;
+}
+
+#under-construction h2{
+    font-size: 3 rem;
+    font-weight: 700;
+
+}
+
+#under-construction img{
+    width:100px;
+    height:100px;
+}   
