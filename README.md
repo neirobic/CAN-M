@@ -1,6 +1,6 @@
 # CAN-M Website
 
-## Static website for CAN-M, a Montreal-based community group working on COVID-19 advocacy. 
+Static website for COVID Action Now - Montreal, a Montreal-based community group working on COVID-19 advocacy. 
 
 Working on setting this up as a place to display information and links to information. Studies, articles, places to buy supplies, links to other COVID advocacy groups.
 
